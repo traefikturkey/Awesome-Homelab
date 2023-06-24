@@ -20,6 +20,7 @@ links to self hosted services and free services for homelabbing
   - ForwardEmail - https://forwardemail.net/
   - MailGun - https://www.mailgun.com/
   - MailerSend - https://www.mailersend.com/
+  - SendGrid - https://sendgrid.com/
 
 # Mail services - Self Hosted
   - Postal - https://github.com/postalserver/postal
