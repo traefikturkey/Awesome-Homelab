@@ -3,6 +3,12 @@ links to self hosted services and free services for homelabbing
 
 [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
+# Awesome Lists
+  - Awesome Tools For Web Developers - https://github.com/mjebrahimi/Awesome-Tools-For-WebDevelopers
+  - Awesome-Selfhosted - https://github.com/awesome-selfhosted/awesome-selfhosted
+  - Awesome Storage - https://github.com/okhosting/awesome-storage
+  - Awesome Terraform - https://github.com/shuaibiyy/awesome-terraform
+
 # Automation - Free Tier
   - Pipedream - https://pipedream.com/
   - webhook.site- https://webhook.site/
