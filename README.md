@@ -14,6 +14,9 @@ links to self hosted services and free services for homelabbing
   - webhook.site- https://webhook.site/
   - Shuffler - https://shuffler.io/
 
+# Logging - Free Tier
+  - Sematext - https://sematext.com/
+
 # Mail services - Free Tier
   - Brevo - https://www.brevo.com/ (formally SendInBlue)
   - CloudMailin - https://www.cloudmailin.com/
