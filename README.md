@@ -14,7 +14,10 @@ links to self hosted services and free services for homelabbing
   - webhook.site- https://webhook.site/
   - Shuffler - https://shuffler.io/
 
-# Logging - Free Tier
+# Cheatsheets 
+  - TraefikTurkey Cheatsheets - https://github.com/traefikturkey/onvoy/tree/master/cheatsheets
+
+# Logging services- Free Tier
   - Sematext - https://sematext.com/
 
 # Mail services - Free Tier
@@ -29,3 +32,6 @@ links to self hosted services and free services for homelabbing
   - Postal - https://github.com/postalserver/postal
   - MailPit - https://github.com/axllent/mailpit (maintained fork of [MailHog](https://github.com/axllent/mailpit#why-rewrite-mailhog))
   - MailCatcher - https://github.com/sj26/mailcatcher
+
+# ZSH
+  - Zsh History - https://jdhao.github.io/2021/03/24/zsh_history_setup/
